@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Network</string>
+    <string name="read_text_file_from_server">Read Text From Server</string>
+</resources>
